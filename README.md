@@ -44,7 +44,7 @@ Your file will be located at:
 
 ## Usage
 
-1. Open `launch_chrome.bat` and set your Chrome user agent (get one from [iplogger.org/useragents](https://iplogger.org/useragents/)):
+1. Open `launch_chrome.bat` and set your Chrome user agent (get one from [iplogger.org/useragents](https://iplogger.org/myuseragent/)):
    ```
    --user-agent="YOUR_USER_AGENT_HERE"
    ```
