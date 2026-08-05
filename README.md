@@ -22,6 +22,9 @@ Instagram doesn't show a list of pending follow requests and gives you no way to
 ```bash
 git clone https://github.com/faiaz0/Auto-Instagram-pending-follow-request-canceler.git
 cd Auto-Instagram-pending-follow-request-canceler
+```
+
+```
 pip install -r requirements.txt
 playwright install chromium
 ```
