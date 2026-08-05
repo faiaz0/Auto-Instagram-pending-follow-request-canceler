@@ -1,6 +1,10 @@
 MIT License
 
-Copyright (c) 2026 faiaz0
+Copyright (c) 2026 Faiaz
+
+Based on the original project by mobilteknolojileri
+(https://github.com/mobilteknolojileri/instagram-pending-requests-canceler),
+also released under the MIT License.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
