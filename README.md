@@ -29,8 +29,8 @@ This tool reads your exported Instagram data, visits every pending profile autom
 ## Installation
 
 ```bash
-git clone https://github.com/mobilteknolojileri/instagram-pending-requests-canceler.git
-cd instagram-pending-requests-canceler
+git clone https://github.com/faiaz0/Auto-Instagram-pending-follow-request-canceler.git
+cd Auto-Instagram-pending-follow-request-canceler
 ```
 ```
 pip install -r requirements.txt
